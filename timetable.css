@@ -1,0 +1,25 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+th {
+  background-color: #ccc;
+}
+
+td {
+  text-align: center;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    font-family: sans;
+}
+
+
